@@ -23,7 +23,7 @@ Secondly, we would like you to use the method above to write out the answers to 
 
 ## Technical Interview Prep
 
-We have broken down the technical interview prep into different levels (beginner, intermediate, and advanced).
+We have broken down the technical interview prep into different levels (beginner, intermediate, and advanced). When you practice coding questions, it is **crucial** that you practice using an online editor like [repl.it](https://repl.it/) and using paper/whiteboard.
 
 ### Beginner Practice
 
