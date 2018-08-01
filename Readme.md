@@ -25,6 +25,23 @@ Secondly, we would like you to use the method above to write out the answers to 
 
 We have broken down the technical interview prep into different levels (beginner, intermediate, and advanced). When you practice coding questions, it is **crucial** that you practice using an online editor like [repl.it](https://repl.it/) and using paper/whiteboard.
 
+### My Tips
+
+Below is my five step process to approaching technical interview questions. Here is a [link](https://insights.dice.com/2015/02/05/answer-technical-interview-question/) with a similar process.
+
+1. Read the question, and repeat the question to the interviewer. By repeating the question, you are solidifying your understanding of it. This is also the time to ask any questions that you don't understand about the problem. Interviewers like when candidates ask questions - its a great indicator of a strong candidate. 
+
+2. Create a few test examples and try to solve the problem manually. Do not write or think about code yet. Just make up an example input to the problem, and write out the steps that your brain uses to solve the problem.
+
+3. Psuedocode. Turn the steps you have written in the previous step into basic psuedocode. This should look as close to code as possible. If you know a trivial solution, mention the idea to the interviewer right away before attempting harder solutions. This is because if you stumble on a harder solution and fail to mention the trivial one, the interviewer doesn't even know if you can solve the problem in the trivial way. If you attempt the harder solution and fail, make sure to revert back to solving it in the trivial way. Make sure to mention the big O efficiency of the trivial solution as well, and explain why it's not the best solution. Sometimes interviewers just want to see if you can write code, and the trivial solution is sufficient for them. 
+
+4. Convert the Psuedocode to real code. Test the code with a bunch of examples and edge cases. Make sure it works. Try to break it (this is a good sign of a strong candidate). Fix the code if there is problems. 
+
+5. Optimize your solution. If you have time and have solved the problem quickly, this is the time where you think about how you can optimize your solution and improve its efficiency.
+
+You don't have to do all the steps, especially if the question is easy. These are general guidelines for questions that look challenging upfront.
+
+
 ### Beginner Practice
 
 This section is focused on the basics of programming - Strings, arrays, loops, objects and functions. 
